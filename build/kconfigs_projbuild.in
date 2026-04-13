@@ -1,0 +1,7 @@
+source "/Users/jalexdefranca/.espressif/v6.0/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/Users/jalexdefranca/.espressif/v6.0/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "/Users/jalexdefranca/.espressif/v6.0/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "/Users/jalexdefranca/.espressif/v6.0/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/Users/jalexdefranca/.espressif/v6.0/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/main/Kconfig.projbuild"
+source "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/managed_components/espressif__console_cmd_ping/Kconfig.projbuild"

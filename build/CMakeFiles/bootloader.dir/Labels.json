@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Volumes/data2005/jalexdefranca/Coding/ESP32/Lilygo/t-pcie/pppos_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
